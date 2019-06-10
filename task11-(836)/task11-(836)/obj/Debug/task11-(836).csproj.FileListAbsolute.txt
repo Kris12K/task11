@@ -1,0 +1,6 @@
+C:\Users\Z\Desktop\task11-(836)\task11-(836)\bin\Debug\task11-(836).exe.config
+C:\Users\Z\Desktop\task11-(836)\task11-(836)\bin\Debug\task11-(836).exe
+C:\Users\Z\Desktop\task11-(836)\task11-(836)\bin\Debug\task11-(836).pdb
+C:\Users\Z\Desktop\task11-(836)\task11-(836)\obj\Debug\task11-(836).csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task11-(836)\task11-(836)\obj\Debug\task11-(836).exe
+C:\Users\Z\Desktop\task11-(836)\task11-(836)\obj\Debug\task11-(836).pdb
